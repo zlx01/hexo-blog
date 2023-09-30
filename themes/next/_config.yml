@@ -693,7 +693,7 @@ leancloud_visitors:
   app_id: wYHPO9HjpTXS0M2CmKbHlkrR-gzGzoHsz
   app_key: RB62aabRp4pOGiHfra2AWK3H
   # Required for apps from CN region
-  server_url: https://zlx01.github.io/
+  server_url: https://wyhpo9hj.lc-cn-n1-shared.com
   # Dependencies: https://github.com/theme-next/hexo-leancloud-counter-security
   # If you don't care about security in leancloud counter and just want to use it directly
   # (without hexo-leancloud-counter-security plugin), set `security` to `false`.
