@@ -1271,7 +1271,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #fcffd1;
+  background: #fcf559;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2653,7 +2653,7 @@ ul.breadcrumb li + li:last-child {
   padding: 0;
 }
 body {
-  background: url("/images/dragonball.jpg");
+  background: url("/hexo-blog/images/dragonball.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: 50% 50%;
@@ -2665,7 +2665,7 @@ body {
   color: #222;
 }
 .site-brand-container {
-  background: url("/images/goku1.jpg") no-repeat;
+  background: url("/hexo-blog/images/goku1.jpg") no-repeat;
   opacity: 0.8;
 }
 @media (max-width: 767px) {
