@@ -581,7 +581,7 @@ comments:
 
 # Disqus
 disqus:
-  enable: true
+  enable: false
   shortname:
   count: true
   #post_meta_order: 0
@@ -995,3 +995,13 @@ vendors:
 css: css
 js: js
 images: images
+
+# Utterances
+# For more information: https://utteranc.es
+utterances:
+  enable: true
+  repo: zlx01/zlx01.github.io # GitHub repository owner and name
+  # Available values: pathname | url | title | og:title
+  issue_term: pathname
+  # Available values: github-light | github-dark | preferred-color-scheme | github-dark-orange | icy-dark | dark-blue | photon-dark | boxy-light
+  theme: github-light
